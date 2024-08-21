@@ -22,4 +22,8 @@ Anaconda é uma distribuição Python especializada sob medida para tarefas de p
  
  Jupyter Notebook é um ambiente de programação interativo baseado na web que suporta várias linguagens de programação, incluindo Python. Os Jupyter Notebooks são amplamente utilizados em pesquisa e academia para modelagem matemática, aprendizado de máquina, análise estatística e para ensinar e aprender a codificar.
 
- 
+ ## REPL
+
+ Basta digitar python no prompt de comando.
+
+ <img src="imagens/REPL.png" width="60%">
