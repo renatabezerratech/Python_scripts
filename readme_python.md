@@ -8,6 +8,8 @@ Modo de script: no modo de script, você coloca um conjunto de instruções Pyth
 
 Python é licenciado sob a licença de código aberto OSI.
 
+Python é uma linguagem digitada dinamicamente, o que significa que o tipo de variável é determinado pelos dados atribuídos a ela.
+
 ## Implementações
 
 [Python](https://www.python.org/)
@@ -27,3 +29,7 @@ Anaconda é uma distribuição Python especializada sob medida para tarefas de p
  Basta digitar python no prompt de comando.
 
  <img src="imagens/REPL.png" width="60%">
+
+ ## Microsoft Learn
+
+[Microsoft Learn](https://learn.microsoft.com/pt-pt/training/paths/python-language/?WT.mc_id=academic-105485-koreyst)
