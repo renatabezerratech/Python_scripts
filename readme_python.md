@@ -3,6 +3,7 @@
 Python é uma linguagem interpretada onde não há nenhuma etapa de compilação necessária. Para executar aplicações Python, precisa de um interpretador de runtime (tempo de execuçao) para executar o código:
 
 Modo interativo: cada comando digitado é interpretado e executado imediatamente, exemplo, o Idle.
+Caso queira executar o interpretador no terminal, digite python + Enter para acessar e, para sair do interpretador, digite exit() 
 
 Modo de script: no modo de script, você coloca um conjunto de instruções Python em um arquivo de texto com uma extensão .py .
 
