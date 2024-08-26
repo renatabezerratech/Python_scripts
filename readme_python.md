@@ -41,7 +41,9 @@ Por concatenação com formatação: exemplo texto = f'para {idade} o plano de s
 
 input()
 
-print()
+print() - exemplos de passagens de parâmetros para a função print são end ou sep
+Exemplo: print(var1, var2, end='...') estou dizendo que depois das variáveis eu quero que coloque reticências.
+Exemplo: print(var1, var2, sep='#') estou dizendo que no lugar do separador padr~eo do python (espaço) entre as variáveis, eu quero que substitua por cerquilha.
 
 ## Implementações
 
