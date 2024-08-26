@@ -5,6 +5,14 @@ Python é uma linguagem interpretada onde não há nenhuma etapa de compilação
 Modo interativo: cada comando digitado é interpretado e executado imediatamente, exemplo, o Idle.
 Caso queira executar o interpretador no terminal, digite python + Enter para acessar e, para sair do interpretador, digite exit() 
 
+*Alguns métodos para utilizar no interpretador*
+
+dir() - vai mostrar o que tem no escopo local, como as importações do projeto;
+
+dir(100) - quando coloca por exemplo 100 quer dizer que é um objeto do tipo inteiro (int), logo, vai retornar todos os métodos que é possível usar no objeto que está entre parênteses;
+
+help() - vai mostrar o sistema de ajuda integrado; Para sair do help é só apertar Enter.
+
 Modo de script: no modo de script, você coloca um conjunto de instruções Python em um arquivo de texto com uma extensão .py .
 
 Python é licenciado sob a licença de código aberto OSI.
@@ -34,3 +42,6 @@ Anaconda é uma distribuição Python especializada sob medida para tarefas de p
  ## Microsoft Learn
 
 [Microsoft Learn](https://learn.microsoft.com/pt-pt/training/paths/python-language/?WT.mc_id=academic-105485-koreyst)
+
+
+
