@@ -25,6 +25,10 @@ Python é licenciado sob a licença de código aberto OSI.
 
 Python é uma linguagem digitada dinamicamente, o que significa que o tipo de variável é determinado pelos dados atribuídos a ela.
 
+## Variáveis e constantes em python
+
+Em python não exite uma palavra reservada para indicar uma constante, então utiliza-se uma convenção entre os programadores: se estiver escrito com letras minúsculas se trata de variável, mas se estiver escrito com letras maiúsculas, então é para considerar uma constante, não podendo modificar o valor da atribuição.
+
 ## Implementações
 
 [Python](https://www.python.org/)
