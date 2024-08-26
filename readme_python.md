@@ -11,7 +11,9 @@ dir() - vai mostrar o que tem no escopo local, como as importações do projeto;
 
 dir(100) - quando coloca por exemplo 100 quer dizer que é um objeto do tipo inteiro (int), logo, vai retornar todos os métodos que é possível usar no objeto que está entre parênteses.
 
-help() - vai mostrar o sistema de ajuda integrado; Para sair do help é só apertar Enter.
+help() - vai mostrar o sistema de ajuda integrado; Para sair do help é só apertar Enter. Se você colocar help() nome_da_biblioteca, por exemplo, vai retornat tudo que a biblioteca faz;
+
+help(objeto) - é só passar o objeto e vai retornar tudo sobre o objeto.
 
 python -i nome_arquivo.py - executa um script previamente feito no arquivo.py
 
