@@ -29,6 +29,8 @@ Python é uma linguagem digitada dinamicamente, o que significa que o tipo de va
 
 Em python não exite uma palavra reservada para indicar uma constante, então utiliza-se uma convenção entre os programadores: se estiver escrito com letras minúsculas se trata de variável, mas se estiver escrito com letras maiúsculas, então é para considerar uma constante, não podendo modificar o valor da atribuição.
 
+Também é importante lembrar que o padrão de declaração para nomes compostos é o snake case, ou seja, substitua os espaços por underline para atender as boas práticas de programação python.
+
 ## Implementações
 
 [Python](https://www.python.org/)
