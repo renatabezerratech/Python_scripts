@@ -37,6 +37,12 @@ Por construtor: exemplo print(str(ID))
 
 Por concatenação com formatação: exemplo texto = f'para {idade} o plano de saúde é {preco}' print(texto)
 
+## Funções de entrada e saída
+
+input()
+
+print()
+
 ## Implementações
 
 [Python](https://www.python.org/)
