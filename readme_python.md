@@ -15,6 +15,8 @@ help() - vai mostrar o sistema de ajuda integrado; Para sair do help é só aper
 
 help(objeto) - é só passar o objeto e vai retornar tudo sobre o objeto.
 
+Para sair do help digite a tecla 'q'
+
 python -i nome_arquivo.py - executa um script previamente feito no arquivo.py
 
 Modo de script: no modo de script, você coloca um conjunto de instruções Python em um arquivo de texto com uma extensão .py .
