@@ -9,9 +9,11 @@ Caso queira executar o interpretador no terminal, digite python + Enter para ace
 
 dir() - vai mostrar o que tem no escopo local, como as importações do projeto;
 
-dir(100) - quando coloca por exemplo 100 quer dizer que é um objeto do tipo inteiro (int), logo, vai retornar todos os métodos que é possível usar no objeto que está entre parênteses;
+dir(100) - quando coloca por exemplo 100 quer dizer que é um objeto do tipo inteiro (int), logo, vai retornar todos os métodos que é possível usar no objeto que está entre parênteses.
 
 help() - vai mostrar o sistema de ajuda integrado; Para sair do help é só apertar Enter.
+
+python -i nome_arquivo.py - executa um script previamente feito no arquivo.py
 
 Modo de script: no modo de script, você coloca um conjunto de instruções Python em um arquivo de texto com uma extensão .py .
 
